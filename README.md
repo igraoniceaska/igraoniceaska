@@ -8,7 +8,7 @@
 - 💞️ Tražim saradnju sa kreativnim ljudima ...
 - 📫 Kako do mene ? Možete me angažovati putem poziva na broj telefona: +381643939674 ...
 
-## Veštine na web-u:
+## Pišemo web-u:
 
 https://igraoniceaska.github.io/
 
