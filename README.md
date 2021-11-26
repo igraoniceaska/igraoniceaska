@@ -2,7 +2,7 @@
 
 <img src="https://github.com/igraoniceaska/igraoniceaska/blob/main/aska.png" width="100" height="auto" />
 
-- 👋 Ćao, Ja sam Aska !!!
+- 👋 Ćao, Ja sam Aska !!! Inače sam inženjer mehanike, a ovde sam slučajno ...
 - 👀 Zainteresovan/a sam za nove tehnologije iz oblasti zabave.
 - 🌱 Trenutno učim fiziku :) 
 - 💞️ Tražim saradnju sa kreativnim ljudima ...
