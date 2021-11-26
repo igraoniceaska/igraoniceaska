@@ -1,6 +1,4 @@
-Igraonice iz bajke ...
-
-<img src="https://github.com/igraoniceaska/igraoniceaska/blob/main/aska.png" width="150" height="auto" />
+<img src="https://github.com/igraoniceaska/igraoniceaska/blob/main/aska.png" width="100" height="auto" />
 
 - 👋 Ćao, Ja sam Aska !!!
 - 👀 Zainteresovan/a sam za nove tehnologije iz oblasti zabave.
